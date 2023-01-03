@@ -7,7 +7,7 @@ from time import sleep
 class Solution():
 
     def myFunc(self):
-        for i in range(5):
+        for i in range(9):
             dice1 = rd.randint(1, 6)
             print(f'dice #1 (roll-{i}) = {dice1}')
 
